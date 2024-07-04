@@ -1,0 +1,14 @@
+h3{
+    border: 10px solid;
+    color: teal;
+    box-shadow: 15px saddlebrown;
+}
+div{
+    border: 15px solid rebeccapurple;
+    box-shadow: 30px saddlebrown;
+    margin: 10px;
+}
+p{
+    color: blueviolet;
+    background-image: image-set(image-set);
+}
